@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Room B316, College of Computer Science</p>
-    <p>123 your address street</p>
+    <p>Sichuan University, Wangjiang Campus</p>
     <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
