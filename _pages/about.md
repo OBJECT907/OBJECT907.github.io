@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   address: >
     <p>Room B316, College of Computer Science</p>
     <p>Sichuan University, Wangjiang Campus</p>
