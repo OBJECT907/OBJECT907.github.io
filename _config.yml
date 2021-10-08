@@ -92,12 +92,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  News:
+  news:
     defaults:
       layout: post
     output: true
     permalink: /news/:path/
-  Projects:
+  projects:
     output: true
     permalink: /projects/:path/
 
