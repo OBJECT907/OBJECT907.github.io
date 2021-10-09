@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Publications of 907.
-years: [1905,1974]
+years: [1950,1956,1974]
 nav: true
 ---
 
