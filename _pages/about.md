@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Yiding Lu(鲁一丁)** is currently an undergraduate of Sichuan University. He will be a Ph.D. student of [Professor Peng](http://pengxi.me/) next year.
+**Yiding Lu(鲁一丁)** is a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by [Prof. Peng](http://pengxi.me/). My research interests mainly focus on Multi-modal Learning and Multi-view Learning.
