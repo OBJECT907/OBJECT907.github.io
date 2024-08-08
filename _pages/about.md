@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Yiding Lu(鲁一丁)** is a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by [Prof. Peng](http://pengxi.me/). My research interests mainly focus on Unsupervised Multi-modal Learning and Multi-view Learning.
+**Yiding Lu(鲁一丁)** received a Bachelor's degree from Sichuan University, Chengdu, China, in 2022. He is currently pursuing a Ph.D. at the College of Computer Science, Sichuan University. His research interests include multi-modal learning and unsupervised learning.
